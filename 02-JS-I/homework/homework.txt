@@ -1,0 +1,16 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a 
+descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: Las variables son espacios donde se almacenamos un dato determinado, el cual se declara con un 
+ tipo de dato(bool, var, str,etc), aunque en js no es necesario esto y se utilizan var,let o const; y un nombre, de
+  deforma que cuando querramos ese dato lo llamemos por su nombre.
+ * Strings: El string es un conjunto de caracteres que se declara con comillas simples o dobles.
+ * Funciones (argumentos, `return`): son objetos llamables(callable objects), se utilizan para realizar un conjunto 
+ de instrucciones que al llamar a la funcion por su nombre, ejecuta las instrucciones. Los argumentos de la funcion 
+ son los datos que la funcion necesita para su ejecucion. Para mostrar el resultado(o mejor dicho,para lanzar el resultado) 
+ obtenido de la ejecucion se utiliza 'return'.
+ * Declaraciones `if`: El if es una condicion el cual, si cumple o falla la condicion realizara una accion.
+ * Valores booleanos (`true`, `false`): Los valores de verdad true(verdad), false(falso), son un tipo de datos utilizado 
+ para el cumplimiento de condiciones.Tambien esta relacionado con los estados de la computadora encendido(true), apagado(false).
+
