@@ -1,0 +1,12 @@
+# Homework: Javascript II
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+* `for`: Bucle finito, el for es una syntaxis utilizada para realizar loops controlables, de decir, 
+sabemos cuando empieza y cuando termina
+* `&&`, `||`, `!`: Son operadores logicos el cual el "&&" represecta a la expresion logica "Y(and)"(conjuncion),
+"||" representa a la expresion logica "O(or)"(disyuncion), y el "!" es una negacion "NOT".
