@@ -1,0 +1,11 @@
+# Homework: Javascript III
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando 
+a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: un array es una pila de objetos que se van apilando apedida que se ingresan mas datos dentro del array, 
+    por lo general se van apilando desde abajo, es decir, como una fila ir al rapipago, siempre llegaran mas clientes al final.
+    Los arrays tienen una ubicacion, el cual la cabeza del array o primer dato esta ubicado en la posicion 0.
